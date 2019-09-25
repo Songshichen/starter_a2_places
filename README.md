@@ -9,25 +9,25 @@ _Note that to get high marks for this, your reflection should match the "exempla
 
 ## 1. How long did the entire project (assignment 2) take you?
 ...  
-Note: You may like to use the WakaTime plugin, which tracks exactly how long you spend in code. See http://wakatime.com (but note that the free version only has a 7-day history)
+I was started it on 20/09/2019, finished the saaignment 2 about 5 days, but in those 5 days, I also did other project.
 
 ## 2. What are you most satisfied with?
-...
+...The most satisfied is the code can run.
 
 ## 3. What are you least satisfied with?
-...
+...The least satisfied is not enough senior.
 
 ## 4. What worked well in your development process?
-...
+...The add place part
 
 ## 5. What about your process could be improved the next time you do a project like this?
-...
+...It's going to improved. 
 
 ## 6. Describe what learning resources you used and how you used them.
-...
+...I have searched in github about those code.
 
 ## 7. Describe the main challenges or obstacles you faced and how you overcame them.
-... 
+... It usually have error in the coding
 
 ## 8. Briefly describe your experience using classes and if/how they improved your code.
-...
+...It has improved my code.
